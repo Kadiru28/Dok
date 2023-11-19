@@ -285,9 +285,7 @@ def menu():
         
                 
                         clear()
-                        print(' [1] File cloning\n New')
-        print(' [2] File cloning\n Anold')
-print(' [3] File cloning\n Aquick')
+                        print(' [1] File cloning\n [2]')
                         linex()
                         xd=input(' Choose an option: ')
                         if xd in ['1','01']:
